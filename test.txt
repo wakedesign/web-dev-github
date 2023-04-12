@@ -1,0 +1,1 @@
+Good morning everyone - this is my first GIT commit!
