@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Good morning everyone - this is another GIT commit!
+=======
+Good morning everyone - this is my second GIT commit!
+>>>>>>> feature
 
-Commit #2 here we come!
+Commit #2 here we come!!
